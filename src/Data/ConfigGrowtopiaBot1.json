@@ -1,0 +1,41 @@
+{
+    "bot1" : {
+       "gt_username" : "",
+       "gt_world_join" : "",
+       "gt_status_bot" : "",
+       "gt_inventory_gems" : 0,
+       "gt_bot_level" : 0,
+       "gt_current_coord" : [0,0],
+       "gt_gotile" : [false,0,0],
+       "gt_warp" : [false,""],
+       "gt_changebot" : [false,"",""],
+       "gt_bool_autobreak" : false,
+       "gt_bool_placebreak" : false,
+       "gt_bool_autoharvest" : false,
+       "gt_bool_autoplant" : false,
+       "gt_bool_reset" : false,
+       "gt_bool_upgradebp" : false,
+       "gt_logs" : "",
+       "gt_collect" : [false,0],
+       "gt_bool_do_connect" : false,
+       "gt_wear" : [false,0],
+       "gt_drop" : [false,0],
+       "gt_bool_autoacc" : false,
+       "gt_autoharvest_world" : "",
+       "gt_autoplant_world" : "",
+       "change_config" : false,
+       "config" : {
+            "itemID" : 5666,
+            "storage" : "payyclearwork",
+            "bool_solo" : true
+       },
+       "setting" : {
+            "setting_autobreak" : {
+                "hit" : 1,
+                "x" : -2,
+                "y" : -2,
+                "clash" : false
+            }
+        }    
+    }    
+}
